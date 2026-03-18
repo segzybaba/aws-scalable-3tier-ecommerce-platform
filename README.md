@@ -10,7 +10,7 @@ The architecture follows industry best practices for cloud design, including **l
 
 ## 🧠 Architecture Diagram
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](https://github.com/segzybaba/aws-scalable-3tier-ecommerce-platform/blob/55ec4e11ea1f658685803790c415926518cd7d41/Architecture%20Diagram.png)
 
 ---
 
