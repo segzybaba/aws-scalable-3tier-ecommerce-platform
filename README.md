@@ -67,7 +67,7 @@ The infrastructure is deployed in a **custom VPC** with:
 
 Application traffic is distributed using an **Application Load Balancer (ALB)**.
 
-![ALB](screenshots/alb.png)
+![ALB](https://github.com/segzybaba/aws-scalable-3tier-ecommerce-platform/blob/756e9a07d76f8c3db093fb102465b4ea43ae359e/Apllication-load-balancer.png)
 
 ---
 
