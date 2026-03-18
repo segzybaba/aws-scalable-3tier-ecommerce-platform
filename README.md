@@ -75,7 +75,7 @@ Application traffic is distributed using an **Application Load Balancer (ALB)**.
 
 The ALB routes traffic only to **healthy EC2 instances**.
 
-![Target Group](screenshots/target-group-health.png)
+![Target Group](https://github.com/segzybaba/aws-scalable-3tier-ecommerce-platform/blob/6e434b477b3b47f426d3be691eb1d230bcfa1932/Target-Group.png)
 
 ---
 
