@@ -86,7 +86,7 @@ An **Auto Scaling Group** ensures high availability and scalability.
 - Maintains minimum number of instances
 - Automatically replaces unhealthy instances
 
-![Auto Scaling](screenshots/autoscaling-group.png)
+![Auto Scaling](https://github.com/segzybaba/aws-scalable-3tier-ecommerce-platform/blob/55de7ec7d4ca899888618c9d54ad60e8ddb58ae0/Auto-scaling-group.png)
 
 ---
 
