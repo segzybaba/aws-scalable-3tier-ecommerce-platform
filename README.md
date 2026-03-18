@@ -97,7 +97,7 @@ The application uses **Amazon RDS (MySQL)** for structured data storage.
 - Deployed in private subnet
 - Not publicly accessible
 
-![RDS](screenshots/rds-database.png)
+![RDS](https://github.com/segzybaba/aws-scalable-3tier-ecommerce-platform/blob/17e8d404f2411af8e987d6cbcf71b2b9d6975b96/RDS.png)
 
 ---
 
