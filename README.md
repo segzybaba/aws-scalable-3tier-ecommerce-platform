@@ -126,7 +126,7 @@ Alerts are triggered for:
 - RDS CPU spikes
 - Unhealthy load balancer targets
 
-![CloudWatch](screenshots/cloudwatch-alarms.png)
+![CloudWatch](https://github.com/segzybaba/aws-scalable-3tier-ecommerce-platform/blob/56b78326c13ad88ad4dc1cc54ae35b8b3d8f9fd7/cloudwatch.png)
 
 ---
 
