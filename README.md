@@ -59,7 +59,7 @@ The infrastructure is deployed in a **custom VPC** with:
 
 ## 🖼️ VPC Resource Map
 
-![VPC Architecture](screenshots/vpc-resource-map.png)
+![VPC Architecture](https://github.com/segzybaba/aws-scalable-3tier-ecommerce-platform/blob/42d7f6828497ef4b63d1115dafc8e4009f5e179d/VPC.png)
 
 ---
 
